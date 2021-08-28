@@ -1,3 +1,15 @@
+## React Pizza
+
+SPA for pizza restaurant
+
+### Technologes Stack
+
+-   HTML5
+-   CSS3, SCSS
+-   JavaScript, React (axios, classnames, prop-types, react-content-loader, react-router-dom)
+-   Redux (react-redux, redux-thunk)
+-   JSON server
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
